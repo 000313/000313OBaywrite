@@ -9847,6 +9847,11 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #044e98;
 }
+
 .self{
-  background-color: khaki;
+  background-color: rgb(43, 39, 2);
+  height: 15rem;
+}
+.texttext{
+  color: #205b97;
 }
